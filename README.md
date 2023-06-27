@@ -3,7 +3,7 @@
 ***
 This project is making a chrome dino game using a hierarchical model using matrix stacks.
 
-You can access the results of the project through example1/figure.html
+You can check the results of the project through downloading all codes and accessing example1/figure.html file.
 - Modeling: Dinosaur1, Dinosaur2, Mole, Bird
   - All models consist of three-dimensional primitives.
   - All models have a hierarchy of at least three levels.
